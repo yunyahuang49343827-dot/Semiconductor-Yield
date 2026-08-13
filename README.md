@@ -63,7 +63,7 @@ LLM 的主要流程：
 
 ### 1. Current PoC System Architecture
 
-![Current PoC System Architecture](docs/current_poc_system_architecture.png)
+![Current PoC System Architecture](current_poc_system_architecture.png)
 
 目前系統包含四個主要 layers：
 
@@ -111,7 +111,7 @@ Semiconductor Manufacturing Dataset
 
 ### 2. AI Copilot Query Flow
 
-![AI Copilot Query Flow](docs/ai_copilot_query_flow.png)
+![AI Copilot Query Flow](ai_copilot_query_flow.png)
 
 Copilot 採用 tool-grounded query workflow：
 
@@ -169,7 +169,7 @@ LOT_0048 — 31.39%
 
 ### 3. Manufacturing Data Structure
 
-![Manufacturing Data Structure](docs/manufacturing_data_structure.png)
+![Manufacturing Data Structure](manufacturing_data_structure.png)
 
 目前 PoC 使用 flat-file CSV dataset。
 
